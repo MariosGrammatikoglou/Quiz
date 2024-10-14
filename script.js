@@ -81,7 +81,7 @@ const listOfQuestionsAnswers = [
         ]
     },
     {
-        question:"Who was the first Valorant agent to be created ?",
+        question:"Who was the first Valorant agent to be created?",
         answers: [
             {text:"Jett",correct:false},
             {text:"Sage",correct:false},
